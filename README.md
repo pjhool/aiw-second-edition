@@ -7,3 +7,5 @@ Code required for the examples in Algorithms of the Intelligent Web, 2nd Edition
  *  Netflix Prize 
     *  The BellKor  Solution to the Netflix Grand Prize
        *  https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf  
+ * Evaluating Collaborative Filtering Recommender Systems
+    *  https://grouplens.org/site-content/uploads/evaluating-TOIS-20041.pdf 
